@@ -489,7 +489,7 @@ As a freelancer, I enjoy collaborating with clients, startups, and businesses to
   </a>
 
   <a
-    href="tel:+919999999999"
+    href="tel:+916282787553"
     className="hover:text-blue-500 transition"
   >
     📱 +91 6282787553
