@@ -424,14 +424,19 @@ As a freelancer, I enjoy collaborating with clients, startups, and businesses to
       Feel free to send me a message.
     </p>
 
-    <form
+<form
   action="https://formsubmit.co/sn3139132@gmail.com"
   method="POST"
   className="space-y-6"
 >
 
   <input type="hidden" name="_captcha" value="false" />
-  <input type="hidden" name="_next" value="https://your-vercel-link.vercel.app"" />
+
+  <input
+    type="hidden"
+    name="_next"
+    value="https://protfolio-surya.vercel.app"
+  />
 
   <input
     type="text"
