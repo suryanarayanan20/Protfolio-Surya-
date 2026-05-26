@@ -431,7 +431,7 @@ As a freelancer, I enjoy collaborating with clients, startups, and businesses to
 >
 
   <input type="hidden" name="_captcha" value="false" />
-  <input type="hidden" name="_next" value="http://localhost:5173/" />
+  <input type="hidden" name="_next" value="https://your-vercel-link.vercel.app"" />
 
   <input
     type="text"
