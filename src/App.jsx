@@ -476,7 +476,28 @@ As a freelancer, I enjoy collaborating with clients, startups, and businesses to
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6 text-blue-500">
             Let's Connect
+
           </h2>
+
+          <div className="flex flex-col md:flex-row justify-center items-center gap-6 mt-10 text-gray-400">
+
+  <a
+    href="mailto:sn3139132@gmail.com"
+    className="hover:text-blue-500 transition"
+  >
+    📧 sn3139132@gmail.com
+  </a>
+
+  <a
+    href="tel:+919999999999"
+    className="hover:text-blue-500 transition"
+  >
+    📱 +91 6282787553
+  </a>
+
+  <p>📍 Tamil Nadu,Coimbatore, India</p>
+
+</div>
 
           <p className="text-gray-400 text-lg mb-8 leading-8">
             Interested in collaborating, freelancing, or building amazing
